@@ -1,0 +1,14 @@
+# This configuration file is part of a Verse Development Project. Purchased at https://dsc.gg/versedev
+MONGO:
+  URI-MODE: true
+  NORMAL:
+    HOST: 127.0.0.1
+    PORT: 27017
+    DATABASE: shadow
+    AUTHENTICATION:
+      ENABLED: false
+      USERNAME: ''
+      PASSWORD: 'admin'
+  URI:
+    DATABASE: shadow
+    CONNECTION_STRING: mongodb://127.0.0.1:27017/Shadow

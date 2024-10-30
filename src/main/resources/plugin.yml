@@ -1,0 +1,20 @@
+# This configuration file is part of a Verse Development Project. Purchased at https://dsc.gg/versedev
+main: xyz.versedev.practice.Shadow
+name: Shadow
+version: '${project.version}-${git.commit.id.abbrev}' # ${git.commit.id.abbrev}
+author: Zatrex, Trakser # mqaaz don't edit authors
+depend:
+  - WorldEdit
+softdepend:
+  - PlaceholderAPI
+  - VerseCore
+  - Volcano
+  - Apollo-Bukkit
+  - AquaCore
+  - PolarCord
+  - Phoenix
+  - PhoenixAC
+  - KarhuLoader
+  - PolarLoader
+  - Replays
+  - Citizens

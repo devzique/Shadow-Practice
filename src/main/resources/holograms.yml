@@ -1,0 +1,14 @@
+# This configuration file is part of a Verse Development Project. Purchased at https://dsc.gg/versedev
+MAIN:
+  LOCATION: 'null'
+  LINES:
+    - '&b&lShadow'
+    - '&r'
+    - '&fWelcome to Practice Season 1!'
+    - '&fThe home of &bEU Practice.'
+
+LEADERBOARDS:
+  ELO:
+    LOCATION: 'null'
+  WINS:
+    LOCATION: 'null'

@@ -1,0 +1,277 @@
+# This configuration file is part of a Verse Development Project. Purchased at https://dsc.gg/versedev
+DIVISIONS:
+   ENABLED: true
+   # If set to false, the division will be based on elo
+   # and XP will be turned off completely as it won't have any purpose
+   XP-BASED: true
+   RANKS:
+     SILVER_1:
+       DISPLAY_NAME: "&7Silver I"
+       ICON: IRON_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&7[I]"
+       DEFAULT: true
+       ELO-MIN: 0
+       ELO-MAX: 1009
+       XP-AMOUNT: 0
+       XP-LEVEL: 1
+     SILVER_2:
+       DISPLAY_NAME: "&7Silver II"
+       ICON: IRON_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&7[II]"
+       DEFAULT: false
+       ELO-MIN: 1010
+       ELO-MAX: 1030
+       XP-AMOUNT: 1000
+       XP-LEVEL: 2
+     SILVER_3:
+       DISPLAY_NAME: "&7Silver III"
+       ICON: IRON_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&7[III]"
+       DEFAULT: false
+       ELO-MIN: 1031
+       ELO-MAX: 1049
+       XP-AMOUNT: 2000
+       XP-LEVEL: 3
+     SILVER_4:
+       DISPLAY_NAME: "&7Silver IV"
+       ICON: IRON_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&7[IV]"
+       DEFAULT: false
+       ELO-MIN: 1050
+       ELO-MAX: 1069
+       XP-AMOUNT: 3000
+       XP-LEVEL: 4
+     SILVER_5:
+       DISPLAY_NAME: "&7Silver V"
+       ICON: IRON_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&7[V]"
+       DEFAULT: false
+       ELO-MIN: 1070
+       ELO-MAX: 1099
+       XP-AMOUNT: 4000
+       XP-LEVEL: 5
+     GOLD_1:
+       DISPLAY_NAME: "&6Gold I"
+       ICON: GOLD_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&6[I]"
+       DEFAULT: false
+       ELO-MIN: 2000
+       ELO-MAX: 2050
+       XP-AMOUNT: 6000
+       XP-LEVEL: 6
+     GOLD_2:
+       DISPLAY_NAME: "&6Gold II"
+       ICON: GOLD_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&6[II]"
+       DEFAULT: false
+       ELO-MIN: 2051
+       ELO-MAX: 2070
+       XP-AMOUNT: 7000
+       XP-LEVEL: 7
+     GOLD_3:
+       DISPLAY_NAME: "&6Gold III"
+       ICON: GOLD_INGOT
+       DURABILITY: 0
+       MINI-LOGO: "&6[III]"
+       DEFAULT: false
+       ELO-MIN: 2071
+       ELO-MAX: 2091
+       XP-AMOUNT: 8000
+       XP-LEVEL: 8
+     DIAMOND_1:
+       DISPLAY_NAME: "&bDiamond I"
+       ICON: DIAMOND
+       DURABILITY: 0
+       MINI-LOGO: "&b[I]"
+       DEFAULT: false
+       ELO-MIN: 3000
+       ELO-MAX: 3040
+       XP-AMOUNT: 9000
+       XP-LEVEL: 9
+     DIAMOND_2:
+       DISPLAY_NAME: "&bDiamond II"
+       ICON: DIAMOND
+       DURABILITY: 0
+       MINI-LOGO: "&b[II]"
+       DEFAULT: false
+       ELO-MIN: 3041
+       ELO-MAX: 3060
+       XP-AMOUNT: 10000
+       XP-LEVEL: 10
+     DIAMOND_3:
+       DISPLAY_NAME: "&bDiamond III"
+       ICON: DIAMOND
+       DURABILITY: 0
+       MINI-LOGO: "&b[III]"
+       DEFAULT: false
+       ELO-MIN: 3061
+       ELO-MAX: 3099
+       XP-AMOUNT: 11000
+       XP-LEVEL: 11
+     EMERALD_1:
+       DISPLAY_NAME: "&aEmerald I"
+       ICON: EMERALD
+       DURABILITY: 0
+       MINI-LOGO: "&a[I]"
+       DEFAULT: false
+       ELO-MIN: 4000
+       ELO-MAX: 4020
+       XP-AMOUNT: 12000
+       XP-LEVEL: 12
+     EMERALD_2:
+       DISPLAY_NAME: "&aEmerald II"
+       ICON: EMERALD
+       DURABILITY: 0
+       MINI-LOGO: "&a[II]"
+       DEFAULT: false
+       ELO-MIN: 4021
+       ELO-MAX: 4040
+       XP-AMOUNT: 13000
+       XP-LEVEL: 13
+     EMERALD_3:
+       DISPLAY_NAME: "&aEmerald III"
+       ICON: EMERALD
+       DURABILITY: 0
+       MINI-LOGO: "&a[III]"
+       DEFAULT: false
+       ELO-MIN: 4041
+       ELO-MAX: 4060
+       XP-AMOUNT: 14000
+       XP-LEVEL: 14
+     EMERALD_4:
+       DISPLAY_NAME: "&aEmerald IV"
+       ICON: EMERALD
+       DURABILITY: 0
+       MINI-LOGO: "&a[IV]"
+       DEFAULT: false
+       ELO-MIN: 4061
+       ELO-MAX: 4080
+       XP-AMOUNT: 16000
+       XP-LEVEL: 15
+     EMERALD_5:
+       DISPLAY_NAME: "&aEmerald V"
+       ICON: EMERALD
+       DURABILITY: 0
+       MINI-LOGO: "&a[V]"
+       DEFAULT: false
+       ELO-MIN: 4080
+       ELO-MAX: 4099
+       XP-AMOUNT: 20000
+       XP-LEVEL: 16
+     SAPPHIRE_1:
+       DISPLAY_NAME: "&9Sapphire I"
+       ICON: INK_SACK
+       DURABILITY: 4
+       MINI-LOGO: "&9[I]"
+       DEFAULT: false
+       ELO-MIN: 5000
+       ELO-MAX: 5010
+       XP-AMOUNT: 24000
+       XP-LEVEL: 17
+     SAPPHIRE_2:
+       DISPLAY_NAME: "&9Sapphire II"
+       ICON: INK_SACK
+       DURABILITY: 4
+       MINI-LOGO: "&9[II]"
+       DEFAULT: false
+       ELO-MIN: 5011
+       ELO-MAX: 5029
+       XP-AMOUNT: 26000
+       XP-LEVEL: 18
+     SAPPHIRE_3:
+       DISPLAY_NAME: "&9Sapphire III"
+       ICON: INK_SACK
+       DURABILITY: 4
+       MINI-LOGO: "&9[III]"
+       DEFAULT: false
+       ELO-MIN: 5030
+       ELO-MAX: 5049
+       XP-AMOUNT: 36000
+       XP-LEVEL: 19
+     PLATINUM_1:
+       DISPLAY_NAME: "&ePlatinum I"
+       ICON: QUARTZ
+       DURABILITY: 0
+       MINI-LOGO: "&e[I]"
+       DEFAULT: false
+       ELO-MIN: 5050
+       ELO-MAX: 5069
+       XP-AMOUNT: 46000
+       XP-LEVEL: 20
+     PLATINUM_2:
+       DISPLAY_NAME: "&ePlatinum II"
+       ICON: QUARTZ
+       DURABILITY: 0
+       MINI-LOGO: "&e[II]"
+       DEFAULT: false
+       ELO-MIN: 5070
+       ELO-MAX: 5089
+       XP-AMOUNT: 56000
+       XP-LEVEL: 21
+     PLATINUM_3:
+       DISPLAY_NAME: "&ePlatinum III"
+       ICON: QUARTZ
+       DURABILITY: 0
+       MINI-LOGO: "&e[III]"
+       DEFAULT: false
+       ELO-MIN: 5090
+       ELO-MAX: 6010
+       XP-AMOUNT: 76000
+       XP-LEVEL: 22
+     PLATINUM_4:
+       DISPLAY_NAME: "&ePlatinum IV"
+       ICON: QUARTZ
+       DURABILITY: 0
+       MINI-LOGO: "&e[IV]"
+       DEFAULT: false
+       ELO-MIN: 6011
+       ELO-MAX: 6020
+       XP-AMOUNT: 86000
+       XP-LEVEL: 23
+     PLATINUM_5:
+       DISPLAY_NAME: "&ePlatinum V"
+       ICON: QUARTZ
+       DURABILITY: 0
+       MINI-LOGO: "&e[V]"
+       DEFAULT: false
+       ELO-MIN: 6021
+       ELO-MAX: 6030
+       XP-AMOUNT: 100000
+       XP-LEVEL: 24
+     MASTER_1:
+       DISPLAY_NAME: "&cMaster I"
+       ICON: BLAZE_POWDER
+       DURABILITY: 0
+       MINI-LOGO: "&c[I]"
+       DEFAULT: false
+       ELO-MIN: 6031
+       ELO-MAX: 6040
+       XP-AMOUNT: 200000
+       XP-LEVEL: 26
+     MASTER_2:
+       DISPLAY_NAME: "&cMaster II"
+       ICON: BLAZE_POWDER
+       DURABILITY: 0
+       MINI-LOGO: "&c[II]"
+       DEFAULT: false
+       ELO-MIN: 6041
+       ELO-MAX: 6050
+       XP-AMOUNT: 210000
+       XP-LEVEL: 27
+     MASTER_3:
+       DISPLAY_NAME: "&cMaster III"
+       ICON: BLAZE_POWDER
+       DURABILITY: 0
+       MINI-LOGO: "&c[III]"
+       DEFAULT: false
+       ELO-MIN: 6051
+       ELO-MAX: 1000000
+       XP-AMOUNT: 220000
+       XP-LEVEL: 28

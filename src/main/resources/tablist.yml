@@ -1,0 +1,255 @@
+# This configuration file is part of a Verse Development Project. Purchased at https://dsc.gg/versedev
+tablist:
+  enable: true
+  type: "VANILLA" # VANILLA, CUSTOM
+  ping: -1 #[-1 = Disabled]
+  player_prefix: "&a" # Only for vanilla tablist
+  header: 
+    - '&b&lVerse Development &7┃ &fTest Server'
+  footer: 
+    - 'versedev.xyz'
+  lines:
+    left:
+      '1':
+        text: '{theme}@versedev'
+        head: '%YOUTUBE%'
+      '2':
+        text: ''
+        head: ''
+      '3':
+        text: ''
+        head: ''
+      '4':
+        text: ''
+        head: ''
+      '5':
+        text: ''
+        head: ''
+      '6':
+        text: ''
+        head: ''
+      '7':
+        text: ''
+        head: ''
+      '8':
+        text: ''
+        head: ''
+      '9':
+        text: ''
+        head: ''
+      '10':
+        text: ''
+        head: ''
+      '11':
+        text: ''
+        head: ''
+      '12':
+        text: ''
+        head: ''
+      '13':
+        text: ''
+        head: ''
+      '14':
+        text: ''
+        head: ''
+      '15':
+        text: ''
+        head: ''
+      '16':
+        text: ''
+        head: ''
+      '17':
+        text: ''
+        head: ''
+      '18':
+        text: ''
+        head: ''
+      '19':
+        text: ''
+        head: ''
+      '20':
+        text: ''
+        head: ''
+    middle:
+      '1':
+        text: '{theme}dsc.gg/versedev'
+        head: '%DISCORD%'
+      '2':
+        text: ''
+        head: ''
+      '3':
+        text: ''
+        head: ''
+      '4':
+        text: ''
+        head: ''
+      '5':
+        text: ''
+        head: ''
+      '6':
+        text: ''
+        head: ''
+      '7':
+        text: ''
+        head: ''
+      '8':
+        text: ''
+        head: ''
+      '9':
+        text: ''
+        head: ''
+      '10':
+        text: ''
+        head: ''
+      '11':
+        text: ''
+        head: ''
+      '12':
+        text: ''
+        head: ''
+      '13':
+        text: ''
+        head: ''
+      '14':
+        text: ''
+        head: ''
+      '15':
+        text: ''
+        head: ''
+      '16':
+        text: ''
+        head: ''
+      '17':
+        text: ''
+        head: ''
+      '18':
+        text: ''
+        head: ''
+      '19':
+        text: ''
+        head: ''
+      '20':
+        text: ''
+        head: ''
+    right:
+      '1':
+        text: '{theme}@versedev'
+        head: '%TWITTER%'
+      '2':
+        text: ''
+        head: ''
+      '3':
+        text: ''
+        head: ''
+      '4':
+        text: ''
+        head: ''
+      '5':
+        text: ''
+        head: ''
+      '6':
+        text: ''
+        head: ''
+      '7':
+        text: ''
+        head: ''
+      '8':
+        text: ''
+        head: ''
+      '9':
+        text: ''
+        head: ''
+      '10':
+        text: ''
+        head: ''
+      '11':
+        text: ''
+        head: ''
+      '12':
+        text: ''
+        head: ''
+      '13':
+        text: ''
+        head: ''
+      '14':
+        text: ''
+        head: ''
+      '15':
+        text: ''
+        head: ''
+      '16':
+        text: ''
+        head: ''
+      '17':
+        text: ''
+        head: ''
+      '18':
+        text: ''
+        head: ''
+      '19':
+        text: ''
+        head: ''
+      '20':
+        text: ''
+        head: ''
+    far_right:
+      '1':
+        text: '{theme}@versedev'
+        head: '%STORE%'
+      '2':
+        text: ''
+        head: ''
+      '3':
+        text: ''
+        head: ''
+      '4':
+        text: ''
+        head: ''
+      '5':
+        text: ''
+        head: ''
+      '6':
+        text: ''
+        head: ''
+      '7':
+        text: ''
+        head: ''
+      '8':
+        text: ''
+        head: ''
+      '9':
+        text: ''
+        head: ''
+      '10':
+        text: ''
+        head: ''
+      '11':
+        text: ''
+        head: ''
+      '12':
+        text: ''
+        head: ''
+      '13':
+        text: ''
+        head: ''
+      '14':
+        text: ''
+        head: ''
+      '15':
+        text: ''
+        head: ''
+      '16':
+        text: ''
+        head: ''
+      '17':
+        text: ''
+        head: ''
+      '18':
+        text: ''
+        head: ''
+      '19':
+        text: ''
+        head: ''
+      '20':
+        text: ''
+        head: ''
