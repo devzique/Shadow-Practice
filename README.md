@@ -1,5 +1,7 @@
+Shadow Practice, Is the shitty praxi fork made by zatrex he also forked funkyranveer's praxi no deps and then removed everyones credits little skid and then also skidded brewages core what a turd
+
 # Shadow
-The most feature-rich and optimized Practice Core
+The most feature-rich and optimized Practice Core get fucked kid
 
 > [!IMPORTANT]
 > This resource works the best on 1.8.8.
@@ -33,20 +35,8 @@ The most feature-rich and optimized Practice Core
 - ~~Winstreaks~~ Already added
 
 # Terms of Use
-You are **NOT** allowed to:
-
-- You can't claim any of the code as your own
-- Must keep all credits within any copies of the resource
-- Must read the license
-- Don't skid it
-- Don't edit the authors
-- Don't rename the plugin
-- Don't claim this plugin as yours
-- Don't redestribute this plugin
-- Don't resell this without perm
-- Don't send it to iusemeteor
-- Don't send it to anyone
-- Don't leak it
+- Do what the fuck you want lil bro xx
 
 # Additional Info
-- Dont become iusemeteor and skid this thing and claim as your own 🙏
+- Become iusemeteor and skid this thing and claim as your own 🙏
+- I want to see 90 forks of this practice core being sold on bbb
