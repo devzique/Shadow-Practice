@@ -1,4 +1,5 @@
 Shadow Practice, Is the shitty praxi fork made by zatrex he also forked funkyranveer's praxi no deps and then removed everyones credits little skid and then also skidded brewages core what a turd
+he even skidded verus anticheat
 
 # Shadow
 The most feature-rich and optimized Practice Core get fucked kid
